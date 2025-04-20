@@ -7,5 +7,5 @@
   "contact": "karosieben.playsgames@gmail.com, For the Updater: GitHub and Factorio forums",
   "homepage": "http://www.factorioforums.com/forum/viewforum.php?f=51",
   "description": "Adds translations for Bob's mods and other supporting mods for Bob's from the Community. Contribute on crowdin! NOTE: This is a port for 2.0 with updated translations and will be retired if Karosieben updates the original mod.",
-  "dependencies": ["base >= 2.0.7", "boblibrary >= 2.0.0"]
+  "dependencies": ["base >= 2.0.7", "boblibrary >= 2.0.0", "? bobwarfare >= 2.0.0", "? bobplates >= 2.0.0", "? bobassembly >= 2.0.0", "? bobgreenhouse >= 2.0.0", "? boblogistics >= 2.0.0", "? bobtech >= 2.0.0", "? bobmodules >= 2.0.0", "? bobpower >= 2.0.0", "? bobmining >= 2.0.0", "? bobvehicles >= 2.0.0", "? bobenemies >= 2.0.0"]
 }
