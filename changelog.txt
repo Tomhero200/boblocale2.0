@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2025-04-20
+  Info:
+    - First release for Factorio 2.0
+  Changes:
+    - Updated all translations to the latest version.
+    - Removed Translation files for the ShinyGFX suite. Please use Artisanal Reskins instead.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.6
 Date: 2022-10-29
   Changes:
