@@ -13,3 +13,4 @@ boblocale_*
 makefile
 crowdin.yml
 thumbnail.xcf
+locale/*/ShinyBobGFX.cfg
